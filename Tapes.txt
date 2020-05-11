@@ -1,0 +1,10 @@
+Tape1,Food Court,3,16,5,2019,https://www.youtube.com/watch?v=U-ZA98K_jac
+Tape2,East Side,2,20,4,2018,https://www.youtube.com/watch?v=gpviAfHcVmw
+Tape3,Parking Lot,4,10,10,2017,https://www.youtube.com/watch?v=Ijr5tcSQHuE
+Tape4,Food Court,4,20,4,2018,https://www.youtube.com/watch?v=PcIhYJCgUWM
+Tape5,Parking Lot,7,20,4,2019,https://www.youtube.com/watch?v=-fNY7DTbyps
+Tape6,East Side,5,20,5,2020,https://www.youtube.com/watch?v=XJ-IpdLeJeU
+Tape7,Parking Lot,4,6,11,2019,https://www.youtube.com/watch?v=0AMQlQFJ0LY
+Tape8,North Side,3,22,2,2018,https://www.youtube.com/watch?v=MzlSVFtxb4c
+Tape9,Food Court,2,15,1,2019,https://www.youtube.com/watch?v=6cfu_6qWSu4&list=RD6cfu_6qWSu4&start_radio=1
+Tape10,Paking Lot,8,16,7,2020,https://www.youtube.com/watch?v=KpYaj-hsIkA&list=RD6cfu_6qWSu4&index=2
